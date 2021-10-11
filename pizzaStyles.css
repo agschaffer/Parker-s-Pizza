@@ -1,0 +1,44 @@
+/* Set rule for background color*/
+body {
+	background-color: LightBlue;
+}
+
+h1 {
+        font-weight: bold;
+        text-align: center;
+	color: DarkBlue;
+	border: 2px solid darkred;
+}
+
+h3 {
+        font-weight: bold;
+        color: navy;
+	font-size: 20px;
+}
+
+ul {
+	color: DarkBlue;
+	font-size: 20px;
+}
+
+button {
+ 	 background-color: LightBlue;
+	 box-shadow: 2px 2px 4px black;
+}
+
+button {
+	color: DarkBlue;
+	font-weight: bold;
+}
+
+.meat {
+		color: DarkRed;
+}
+
+.veggie {
+		color: Green;
+}
+
+.cheese {
+		color: yellow;
+}
